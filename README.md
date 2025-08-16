@@ -63,4 +63,4 @@ Academic Year: 2566 (2023)
 ## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   https://github.com/KIFAKER86H/AutotakecareOplant__1.git

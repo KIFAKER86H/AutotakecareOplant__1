@@ -45,6 +45,7 @@ Academic Year: 2566 (2023)
 ---
 
 ## ⚙️ System Design
+![System Diagram](Circuit.png)
 - **Automatic Watering:** Uses soil humidity detection. Minimum threshold set at **51% RH**.  
 - **Automatic Lighting:** Uses LDR to detect brightness. When darkness reaches **1024 (Analog pin reading)**, UV light is activated.  
 - **IoT Monitoring:** Real-time monitoring & manual control through **Blynk mobile application**.  
